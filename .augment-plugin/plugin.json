@@ -1,0 +1,20 @@
+{
+  "name": "pr-comments-resolver",
+  "version": "1.2.0",
+  "description": "Resolve unresolved PR/MR review comments across GitHub, GitLab, Bitbucket Cloud, and Azure DevOps",
+  "author": {
+    "name": "Marcel Strahl @ Dropelikeit",
+    "url": "https://github.com/Dropelikeit"
+  },
+  "keywords": [
+    "pr",
+    "code-review",
+    "github",
+    "gitlab",
+    "bitbucket",
+    "azure-devops",
+    "merge-request",
+    "review"
+  ],
+  "skills": "./dist/augment/skills/"
+}

@@ -1,0 +1,1 @@
+These harnesses do not expose a skills registry. Treat Graphify as available only if the project clearly ships it (e.g. a `graphify` skill/command file under the project's skills directory or an entry in the agent config). If you cannot positively confirm it, treat Graphify as unavailable and proceed without it.

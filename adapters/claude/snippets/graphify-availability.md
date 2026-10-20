@@ -1,0 +1,1 @@
+Check the list of available skills surfaced by the harness for a `graphify` skill (it may appear as `graphify` or a plugin-namespaced `<plugin>:graphify`). If present, Graphify is available; invoke it via the Skill tool when required below.
